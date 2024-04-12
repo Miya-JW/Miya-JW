@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### I'm Miya! 🥳
 
 #### About Me
-🇰🇷 I'm a graduate with a Bachelor's degree in Advertising and Public Relations from South Korea.
-🇳🇿 I'm currently pursuing a Master's degree in Information Technology at the University of Waikato.
+- 🇰🇷 I'm a graduate with a Bachelor's degree in Advertising and Public Relations from South Korea.
+- 🇳🇿 I'm currently pursuing a Master's degree in Information Technology at the University of Waikato.
 
 
 #### Technical Skills
