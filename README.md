@@ -23,9 +23,24 @@ Here are some ideas to get you started:
 
 
 #### Technical Skills
-- **Programming Languages**: Java, Python
-- **Web Technologies**: HTML, CSS, JavaScript, Node.js
-- **Design**: Specializing in user interface design, I strive to create visually appealing and user-friendly experiences.
+
+- **Software Development**：
+
+ - Technologies: Proficient in Java, C#, and Python.
+ - Application: Developed a comprehensive inventory management system using Java for my final project in the Programming for Industry course, which involved creating complex software components that integrated seamlessly with both frontend and backend systems. This project demonstrated my ability to engineer robust software solutions and tackle complex programming challenges.
+
+- **Web Development**：
+
+ - Technologies: Skilled in HTML, CSS, JavaScript, Node.js, and React.
+ - Application: For my coursework in Programming with Web Technologies, I designed and implemented a full-featured blogging platform. This platform included user authentication, dynamic content management, and a responsive design, showcasing my ability to build interactive websites that provide a seamless user experience.
+
+- **Database Management**：
+
+ - Technologies: Experienced with SQL and MySQL.
+ - Application: In multiple projects, including the blogging website, I was responsible for designing and managing databases. This involved structuring database schemas, optimizing queries for performance, and ensuring data integrity, thereby enhancing the overall efficiency and reliability of the applications.
+
+- **Data Visualization**:
+ - Expert in transforming complex data into clear and effective visual representations.
 
 
 #### Interests
