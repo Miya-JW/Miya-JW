@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### **Software Development**：
 
- - Technologies: Proficient in Java, familier with C#, and Python.
+ - Technologies: Proficient in Java, familiar with C#, and Python.
  - Application: Developed a comprehensive inventory management system using Java for my final project in the Programming for Industry course, which involved creating complex software components that integrated seamlessly with both frontend and backend systems. This project demonstrated my ability to engineer robust software solutions and tackle complex programming challenges.
 
 ### **Web Development**：
