@@ -1,26 +1,21 @@
 ### Kia ora 👋
 
-<!--
-**Miya-JW/Miya-JW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### I'm Miya! 🥳
 
+☕ **Motto:** Coffee first, then work.
+
 ## About Me
-- 🇰🇷 I'm a graduate with a Bachelor's degree in Advertising and Public Relations from South Korea.
-- 🇳🇿 I'm currently pursuing a Master's degree in Information Technology at the University of Waikato.
-- As a Web Developer specializing in UI design, I excel in creating intuitive and engaging interfaces that enhance user experiences. My background in Advertising and Event Planning provides a unique perspective on user needs, enabling me to deliver aesthetically pleasing and functional solutions. Passionate about innovation, I consistently integrate fresh ideas into my projects to keep them cutting-edge and user-focused.
+👋 Hi, I’m **Miya** — an advertising major turned full-stack developer & UI/UX designer who believes coffee and curiosity can solve almost anything.
+
+🎨 From designing campaigns in Korea to designing interfaces in New Zealand, I’ve always loved understanding people and creating things they enjoy using.  
+💻 I once thought code looked like alien language. Now I speak JavaScript, React, Node.js — and recently picked up TypeScript just for fun (and pain).  
+📚 My projects mix creativity and logic — like a book, music, and movie logging site built from scratch with APIs, or a solar energy dashboard powered by thoughtful design (and too much coffee).  
+🎮 Also designed a Māori language learning game — turns out, culture + UI = pretty cool.
+
+🛠️ Currently exploring ways to make the web a little smarter, cleaner, and more human.
+
+🔗 **Check out my portfolio:** [miya-jw.github.io](https://miya-jw.github.io/)
+
 
 
 ## Technical Skills
